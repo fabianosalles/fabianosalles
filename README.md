@@ -6,7 +6,7 @@ I'm currently living in Brazil, finishing my Data Science specialization at [Uni
 
 See ya!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabianosallesbr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabianosalles/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fabianosalles82/)](https://instagram.com/fabianosalles82)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/fabiano.salles.xavier)](https://facebook.com/fabiano.salles.xavier/)
 
