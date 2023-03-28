@@ -1,8 +1,8 @@
 ## Hi there, I'm Fabiano Salles!
 I'm a software engineer interested in data science, computer graphics, game development, web development, retro programming, microelectronics, and many low-level stuff.
-I've work with software development since my teenage days, mainly with `C++`, `C`, and `Delphi`. In the last 12 years or so, I've been doing a lot of web development with `java` and `C#` as a consultant for many different companies around the globe. 
+I've worked with software development since my teenage days, mainly with `C++`, `C`, and `Delphi`. In the last 12 years or so, I've been doing a lot of web development with `java` and `C#` as a consultant for many different companies around the globe. 
 
-I'm currently living in Brazil, finishing my Data Science specialization at [Univesp](https://univesp.br/) and playing woodwind instruments in my spare time. Feel free to contact me on LinkedIn or my social networks.
+I'm currently living in Brazil, finishing my Data Science specialization at [Univesp](https://univesp.br/), and playing woodwind instruments in my spare time. Feel free to contact me on LinkedIn or my social networks.
 
 See ya!
 
